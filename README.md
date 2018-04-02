@@ -1,1 +1,1 @@
-# sockpuppet
+# dataset of sockpuppet detection
